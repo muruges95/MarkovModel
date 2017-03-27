@@ -1,5 +1,3 @@
-package sg.edu.nus.cs2020;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 
